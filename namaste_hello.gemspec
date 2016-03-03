@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Namaste Hello}
   spec.description   = %q{Namaste Hello}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ne-ha/namaste_hello"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
